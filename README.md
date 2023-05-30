@@ -1,10 +1,12 @@
-### Hello, you are welcome!
+### Hello, I'm Douglas Matos, a front-end programmer.
 
-My name is Douglas Matos, I'm a Front End programmer.
+I have a passion for creating attractive and interactive interfaces for websites and applications. 
 
-I'm currently studying to specialize in React and JavaScript.
+Besides my work, I love drinking coffee to stay energized, and I'm also a big fan of soccer, always looking for a game to play and have fun. 
 
-My hobbies are playing soccer and drinking coffee. 😃
+I'm constantly seeking new challenges and opportunities to enhance my skills as a developer. It's a pleasure to meet you! 
+
+How can I assist you?
 
 ![coding](https://user-images.githubusercontent.com/105434742/209392567-f3da8b3a-6fdc-4baf-8a55-9bb216081bbd.gif)
 ## Technologies I use on day-to-day
